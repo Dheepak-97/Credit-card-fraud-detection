@@ -1,6 +1,6 @@
 # Credit-card-fraud-detection
 ## Problem Statement
-The problem that i am going to solve is to understand the features and gather insights to identify the fraud credit card transactions. I am going to oversampling using SMOTE to balance the data.
+The problem that i am going to solve is to understand the features and gather insights to identify the fraud transactions. I am going to perform oversampling using SMOTE to balance the data.
 
 ## Data scource
 Used data from Kaggle (Machine Learning Group - ULB : https://www.kaggle.com/mlg-ulb/creditcardfraud)
