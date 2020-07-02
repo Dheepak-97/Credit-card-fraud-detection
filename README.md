@@ -11,9 +11,9 @@ Feature __'Time'__ contains the seconds elapsed between each transaction and the
 
 ## Conclusion:
 
-__Logistic regression__ performs well in classifying fraud transactions with excellent __recall score of 0.955.__
+__Logistic regression__ performs well in classifying fraud transactions with excellent __recall score of 0.955.__ but with a poor __precision score of 0.08__
 
-__Random Forest__ performs well on classifying frauds and normal transactions which gives higher __F1 score of 0.814__ compared to other models.
+__Random Forest__ performs well on classifying both frauds and normal transactions which gives higher __F1 score of 0.814__ compared to other models.
 
 ![](https://github.com/Dheepak-97/Credit-card-fraud-detection/blob/master/final%20result.png)
 
