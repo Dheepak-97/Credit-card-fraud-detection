@@ -13,11 +13,11 @@ Feature __'Time'__ contains the seconds elapsed between each transaction and the
 
 we are going to evaluate model based on Recall and precision scores.
 
-Recall – Out of all actual frauds how many frauds my model predicted correctly i.e True positive / (True positive + False Negative ).
-Precision - Out of all predicted frauds how many frauds my model predicted correctly i.e True Positive / (True positive + False Positive)
+__Recall__ – Out of all actual frauds how many frauds my model predicted correctly i.e True positive / (True positive + False Negative ).
 
-Since our Logistic Regression model has the highest recall score (0.955) compared to other models it is best in predict the fraud transaction but it has poor precision score (0.08).
-In terms of maintaining good recall score ( 0.88) and precision score ( 0.76) the Random Forest model performs better than Logistic Regression
+__Precision__ - Out of all predicted frauds how many frauds my model predicted correctly i.e True Positive / (True positive + False Positive)
+
+Since our Logistic Regression model has the highest recall score (0.955) compared to other models it is best in predict the fraud transaction but it has poor precision score (0.08).In terms of maintaining good recall score ( 0.88) and precision score ( 0.76) the Random Forest model performs better than Logistic Regression
 
 
 
